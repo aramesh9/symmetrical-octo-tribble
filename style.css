@@ -1,0 +1,34 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    background-color: goldenrod;
+}
+.header_div{
+    background:lime;
+    color: darkcyan;
+    
+}
+.header_div p{
+    font-family: 'Irish Grover', cursive;
+    color: rgb(255, 0, 51);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Architects Daughter', cursive;
+    margin-top:30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+.copy_right_footer{
+    position:fixed;
+    color: deepskyblue;
+    bottom:0;
+    width: 100%;
+    font-size:18px;
+    background-color: ivory;
+    line-height:3;
+    text-align: center;
+    text-shadow: 5px 5px 5px aquamarine;
+}
